@@ -1,6 +1,6 @@
 {
   "Version": "0.0.3",
-  "Vendor": "AlekSi",
+  "Vendor": "debug",
   "Authors": [
     {
       "FullName": "Alexey Palazhchenko",
@@ -11,5 +11,5 @@
     "README",
     "LICENSE"
   ],
-  "Homepage": "http://www.gonuts.io/AlekSi/test_nut3"
+  "Homepage": "http://github.com/AlekSi/test_nut3"
 }
