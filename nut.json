@@ -1,5 +1,5 @@
 {
-  "Version": "0.0.3",
+  "Version": "0.3.0",
   "Vendor": "debug",
   "Authors": [
     {
@@ -11,5 +11,9 @@
     "README",
     "LICENSE"
   ],
-  "Homepage": "http://github.com/AlekSi/test_nut3"
+  "Homepage": "http://github.com/AlekSi/test_nut3",
+  "Dependencies": {
+    "gonuts.io/debug/test_nut1": "*.*.*",
+    "gonuts.io/debug/test_nut2": "0.2.*"
+  }
 }
